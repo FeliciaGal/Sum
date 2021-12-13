@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  width: 1000px;
+  margin: 0 auto;
+  background-image: url("number.png.jfif");
+}
+#suma {
+  display: flexbox;
+  align-items: center;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 50px;
+  margin-left: 50px;
+  color: rgb(155, 9, 9);
+}
+#btn-result {
+  background-color: rgb(160, 17, 17);
+  border-radius: 5px;
+}
